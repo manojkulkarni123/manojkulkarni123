@@ -1,4 +1,18 @@
-<h2 align="left">Hey, I'm Manoj Kulkarni 👋  <br>I'm a computer science student at BMSCE Bangalore, interested in AI/ML and web development. Currently exploring Generative AI, LLMs, and agents while working on real-world applications during my internship. I enjoy building products that solve practical problems.</h2>
+<h2 align="left">Hey, I'm Manoj Kulkarni 👋 
+  
+<br>I'm a computer science student at BMSCE Bangalore, interested in AI/ML and web development. Currently exploring Generative AI, LLMs, and agents while working on real-world applications during my internship. I enjoy building products that solve practical problems.</h2>
+<h3 align="left">Socials: </h3>
+
+<a href="https://www.linkedin.com/in/manoj-kulkarni-736423205/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 100;">
+</a>
+
+<a href="mailto:manoj.kulkarni074@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40">
+</a>
+
+
+
 
 ###
 
