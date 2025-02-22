@@ -35,14 +35,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/manojkulkarni123/manojkulkarni123/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31gys5rvflp2auzaajnw7jdpj5nq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gys5rvflp2auzaajnw7jdpj5nq&count=5" alt="Spotify recently played"  />
