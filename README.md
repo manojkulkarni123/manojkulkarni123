@@ -26,16 +26,10 @@
 
 ###
 
-<img align="right" height="171" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-<div align="center">
   <a href="https://open.spotify.com/user/31gys5rvflp2auzaajnw7jdpj5nq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gys5rvflp2auzaajnw7jdpj5nq&count=5" alt="Spotify recently played"  />
   </a>
