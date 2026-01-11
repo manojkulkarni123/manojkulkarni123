@@ -1,43 +1,35 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Manoj+%F0%9F%91%8B;Building+AI+that+works+beyond+demos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Manoj;Building+AI+that+works+beyond+demos" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojkulkarni123&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  Software Engineer | Applied AI Specialist | Homelab Tinkerer ║
-║  Building secure, scalable AI systems that solve real problems ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
-  
-  **CSE @ BMSCE Bangalore**| **Ex Applied AI Intern @ HiDevs**
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kulkarni-736423205/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkulkarni123)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manoj.kulkarni074@gmail.com)
-  
+
+**Software Engineer | Applied AI Specialist | Homelab Tinkerer**
+
+Building secure, scalable AI systems that solve real problems
+
+**CSE @ BMSCE Bangalore** | **Ex Applied AI Intern @ HiDevs**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kulkarni-736423205/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkulkarni123)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manoj.kulkarni074@gmail.com)
+
 </div>
 
 ---
 
-###  What I Do
+### What I Do
 
--  **Applied AI Engineering**: Building production-grade LLM applications with LangChain, LangGraph & RAG
--  **Full-Stack Development**: FastAPI, React, Next.js - shipping products that actually work
--  **Homelab Enthusiast**: Actively tinkering with my homelab, experimenting with Docker, Kubernetes, and self-hosted solutions
--  **Autonomous Agents**: Designed AI agents for interviews, blog generation, and repo evaluation
+- **Applied AI Engineering**: Building production-grade LLM applications with LangChain, LangGraph & RAG
+- **Full-Stack Development**: FastAPI, React, Next.js - shipping products that actually work
+- **Homelab Enthusiast**: Actively tinkering with my homelab, experimenting with Docker, Kubernetes, and self-hosted solutions
+- **Autonomous Agents**: Designed AI agents for interviews, blog generation, and repo evaluation
 
 ---
 
 ### Experience Highlights
 
 **Generative AI Intern @ HiDevs** *(Nov 2024 – May 2025)*
-- Deployed AI Interview Simulator with real-time LLM-driven scoring
 - Built GitHub Repo Evaluation Agent for end-to-end feedback reports  
 - Created autonomous Blog Agent (Google Sheets → Hashnode automation)
 - Shipped multiple AI solutions into production using LangGraph & FastAPI
@@ -108,20 +100,14 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=radical&hide_border=true&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkulkarni123&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=radical&hide_border=true&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&bg_color=0D1117)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=radical&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojkulkarni123&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkulkarni123&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=radical&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117)
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=80&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=80&section=footer" width="100%"/>
 </div>
