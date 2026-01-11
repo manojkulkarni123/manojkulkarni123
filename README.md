@@ -105,19 +105,16 @@ Trying to solve problems through tech
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=radical&hide_border=true&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkulkarni123&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=manojkulkarni123&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=radical&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=80&section=footer" width="100%"/>
-</div>
