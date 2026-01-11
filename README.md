@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Manoj;Building+AI+that+works+beyond+demos" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojkulkarni123&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
 <div align="center">
 
-**Software Engineer | Applied AI Specialist | Homelab Tinkerer**
+**Applied AI Engineer | Full Stack Developer | Homelabbing Enthusiast**
 
-Building secure, scalable AI systems that solve real problems
+Trying to solve problems through tech
 
 **CSE @ BMSCE Bangalore** | **Ex Applied AI Intern @ HiDevs**
 
@@ -100,11 +104,17 @@ Building secure, scalable AI systems that solve real problems
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=radical&hide_border=true&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=radical&hide_border=true&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkulkarni123&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkulkarni123&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=radical&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=radical&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
