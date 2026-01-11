@@ -1,46 +1,127 @@
-<h2 align="left">Hey, I'm Manoj Kulkarni 👋 
-  
-<br>I'm a computer science student at BMSCE Bangalore, interested in AI/ML and web development. Currently exploring Generative AI, LLMs, and agents while working on real-world applications during my internship. I enjoy building products that solve practical problems.</h2>
-<h3 align="left">Socials: </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Manoj+%F0%9F%91%8B;Building+AI+that+works+beyond+demos" alt="Typing SVG" />
+</h1>
 
-<a href="https://www.linkedin.com/in/manoj-kulkarni-736423205/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 100;">
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojkulkarni123&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 
-<a href="mailto:manoj.kulkarni074@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40">
-</a>
-
-
-
-
-###
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  Software Engineer | Applied AI Specialist | Homelab Tinkerer ║
+║  Building secure, scalable AI systems that solve real problems ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkulkarni123&cache_seconds=86400&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=manojkulkarni123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkulkarni123&exclude_repo=Feeding-india&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  **CSE @ BMSCE Bangalore**| **Ex Applied AI Intern @ HiDevs**
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kulkarni-736423205/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkulkarni123)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manoj.kulkarni074@gmail.com)
+  
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+###  What I Do
+
+-  **Applied AI Engineering**: Building production-grade LLM applications with LangChain, LangGraph & RAG
+-  **Full-Stack Development**: FastAPI, React, Next.js - shipping products that actually work
+-  **Homelab Enthusiast**: Actively tinkering with my homelab, experimenting with Docker, Kubernetes, and self-hosted solutions
+-  **Autonomous Agents**: Designed AI agents for interviews, blog generation, and repo evaluation
+
+---
+
+### Experience Highlights
+
+**Generative AI Intern @ HiDevs** *(Nov 2024 – May 2025)*
+- Deployed AI Interview Simulator with real-time LLM-driven scoring
+- Built GitHub Repo Evaluation Agent for end-to-end feedback reports  
+- Created autonomous Blog Agent (Google Sheets → Hashnode automation)
+- Shipped multiple AI solutions into production using LangGraph & FastAPI
+
+---
+
+### Tech Stack
+
+<table>
+<tr>
+  <td><strong>Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>AI/ML</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>Backend</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>Databases</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><strong>DevOps & Tools</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  </td>
+</tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojkulkarni123&show_icons=true&theme=radical&hide_border=true&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkulkarni123&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
-###
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkulkarni123&layout=compact&theme=radical&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojkulkarni123&theme=radical&utcOffset=5.5" alt="Productive Time" />
+</div>
 
-<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+---
 
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=80&section=footer" width="100%"/>
+
+</div>
